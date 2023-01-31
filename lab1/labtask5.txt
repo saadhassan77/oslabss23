@@ -1,0 +1,12 @@
+Script started on 2023-01-31 22:12:32+05:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="80" LINES="24"]
+                                                                                ]0;saad@Saad: ~/Desktop[0m[27m[24m[J[32m┌──([1m[32m[34msaad㉿Saad[0m[34m[32m)-[[1m[32m[39m~/Desktop[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37ms[24m[39m[4m[37ms[24m[39m[38;2;153;153;153mudo passwd user2[39m[16D[24m[36ms[36mu[39m[4m[37ms[4m[37mu[4m[37md[24m[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [36mp[36ma[36ms[36ms[36mw[36md[39m[39m [39mu[39ms[39me[39mr[39m2[?1l>[?2004l
+[sudo] password for saad: 
+New password: 
+Retype new password: 
+passwd: password updated successfully
+                                                                                ]0;saad@Saad: ~/Desktop
+[0m[27m[24m[J[32m┌──([1m[32m[34msaad㉿Saad[0m[34m[32m)-[[1m[32m[39m~/Desktop[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?2004l
+
+Script done on 2023-01-31 22:12:42+05:00 [COMMAND_EXIT_CODE="0"]
