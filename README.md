@@ -40,5 +40,11 @@
 # b
 ![q1b](https://user-images.githubusercontent.com/104758930/218320646-6001437e-f835-4a8e-b2ab-f9799413d64c.PNG)
 ![q1 b](https://user-images.githubusercontent.com/104758930/218320645-796adc63-6615-4d17-aa28-0d7830ee63ff.PNG)
-![q1bb](https://user-images.githubusercontent.com/104758930/218320647-ce5a7c06-5f20-4571-9e60-6b44dad74039.PNG)
+![q1bb](https://user-im![Screenshot from 2023-02-18 16-36-29](https://user-images.githubusercontent.com/104758930/219862793-59605aa4-be2b-4a73-a1dc-42f07dbb28ef.png)![Screenshot from 2023-02-18 16-36-53](https://user-images.githubusercontent.com/104758930/219862830-9c833bd8-868e-4479-8ab3-c46b6cf9b5fe.png)![Screenshot from 2023-02-18 16-37-01](https://user-images.githubusercontent.com/104758930/219862840-2588f989-dff7-4632-ac5a-141fdf8441a3.png)
+
+
+
+#samba 
+/home/saad/Pictures/Screenshots/Screenshot from 2023-02-18 16-36-29.png
+
 
